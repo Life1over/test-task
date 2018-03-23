@@ -1,1 +1,10 @@
-[Задание для Golang разработчика](golang.md)
+# Тестовые задания
+- [Golang](golang.md)
+- [Java](java.md)
+- [C#](C#.md)
+- [Python](python.md)
+- [PHP](php.md)
+- [Android](android.md)
+- [QA](QA.md)
+- [QA Automation](qaautomation.md)
+- [Frontend](frontend.md)
