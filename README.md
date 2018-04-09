@@ -5,7 +5,4 @@
 - [Python](python.md)
 - [PHP](php.md)
 - [Android](android.md)
-- [QA](QA.md)
-- [QA Automation](qaautomation.md)
-- [Load testing](loadtesting.md)
 - [Frontend](frontend.md)
