@@ -1,0 +1,1 @@
+./gnawer news $1

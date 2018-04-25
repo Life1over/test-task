@@ -1,0 +1,13 @@
+*.exe
+*.exe~
+*.test
+*~
+*.ql
+.git/
+.settings/
+.idea/
+.vscode/
+bin/
+debug
+/gnawer
+cmd/gnawer/db/.*
