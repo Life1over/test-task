@@ -9,5 +9,5 @@
 .vscode/
 bin/
 debug
-/gnawer
+cmd/gnawer/gnawer
 cmd/gnawer/db/.*

@@ -2,6 +2,7 @@ package main
 
 import (
 	"database/sql"
+	"os"
 
 	_ "github.com/cznic/ql/driver"
 )
@@ -196,6 +197,9 @@ func (s *Storage) ListArticles(contains ...string) ([]*Article, error) {
 // }
 
 func NewStorage() (Storage, error) {
+	if err := os.Mkdir("db", os.ModePerm); err != nil {
+		return Storage{db: nil}, err
+	}
 	db, err := sql.Open("ql", "db/news.ql")
 	if err != nil {
 		return Storage{db: nil}, err
