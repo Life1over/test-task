@@ -125,6 +125,7 @@ func usage() {
 	fmt.Println("Try 'gnawer add --help' for more information.")
 	fmt.Println(`gnawer news [search this text]`)
 	fmt.Println("gnawer tasks")
+	fmt.Println("gnawer update")
 	os.Exit(1)
 }
 
