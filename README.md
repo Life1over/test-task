@@ -1,7 +1,7 @@
 # Тестовые задания
 - [Golang](golang.md)
 - [Java](java.md)
-- [C#](C.md)
+- [C#](CSharp.md)
 - [Python](python.md)
 - [PHP](php.md)
 - [Android](android.md)
