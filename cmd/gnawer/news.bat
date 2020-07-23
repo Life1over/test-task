@@ -1,1 +1,0 @@
-gnawer news %1
